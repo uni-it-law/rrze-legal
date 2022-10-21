@@ -36,11 +36,13 @@ Dieses WordPress-Plugin erstellt die drei Endpoint-Seiten
 - /impressum
 - /datenschutz 
 - /barrierefreiheit
+- /hinweisgebersystem
  
 bzw. auf Websites mit englischer Sprache die Endpoints
 -  /imprint
 -  /privacy
 -  /accessibility
+-  /whistleblowersystem
 
 
 ## Individuelle Anpassungen
